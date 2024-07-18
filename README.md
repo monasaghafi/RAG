@@ -1,2 +1,19 @@
 # RAG
 This Python code snippet is for an Information Retrieval assignment. It involves text processing with various libraries, embedding functions, database interaction, and an AI model for responding to questions. Performance is showcased through LangSmith's capabilities in answering queries on testing.
+Information Retrieval Assignment
+This repository contains code for an Information Retrieval assignment, showcasing text processing using Python libraries, embedding functions, database interaction, and an AI model for question answering. The performance of LangSmith in responding to queries on testing is demonstrated.
+
+# Code Overview:
+Loading and processing documents from a specific URL
+Creating a collection for storing embeddings
+Utilizing SentenceTransformer for text embedding functions
+Interacting with ChromaDB for database operations
+Implementing a ChatOpenAI model for conversational AI tasks
+Generating text responses based on given inputs and contexts
+Demonstrating LangSmith's capabilities for answering questions related to testing
+# Usage:
+Clone the repository
+Install the required libraries
+Run the code snippet
+Explore the functionality and performance of LangSmith in answering queries
+Feel free to contribute or provide feedback to enhance the repository's functionality and performance.
