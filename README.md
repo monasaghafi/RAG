@@ -4,13 +4,13 @@ Information Retrieval Assignment
 This repository contains code for an Information Retrieval assignment, showcasing text processing using Python libraries, embedding functions, database interaction, and an AI model for question answering. The performance of LangSmith in responding to queries on testing is demonstrated.
 
 # Code Overview:
-Loading and processing documents from a specific URL
-Creating a collection for storing embeddings
-Utilizing SentenceTransformer for text embedding functions
-Interacting with ChromaDB for database operations
-Implementing a ChatOpenAI model for conversational AI tasks
-Generating text responses based on given inputs and contexts
-Demonstrating LangSmith's capabilities for answering questions related to testing
+<li>Loading and processing documents from a specific URL</li>
+<li>Creating a collection for storing embeddings</li>
+<li>Utilizing SentenceTransformer for text embedding functions</li>
+<li>Interacting with ChromaDB for database operations</li>
+<li>Implementing a ChatOpenAI model for conversational AI tasks</li>
+<li>Generating text responses based on given inputs and contexts</li>
+<li>Demonstrating LangSmith's capabilities for answering questions related to testing</li>
 # Usage:
 Clone the repository
 Install the required libraries
